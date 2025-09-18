@@ -15,7 +15,7 @@ You will:
 ## Branch Summaries
 
 - `main`: Original story starter
-- `hero-path`: _[Describe your changes here]_
+- `hero-path`: If the hero turns left, it stumbles upon a sword stuck in a stone. When he picks it up, a fierce dragon appears. With the sword he was able to defeat the fierce dragon!
 - `villain-path`: _[Describe your changes here]_
 
 ## Final Checklist
