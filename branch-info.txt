@@ -10,14 +10,14 @@ Branches in this repo (with details):
     360f3a4 | Author: Jaden Ziga <179839509+jaden313@users.noreply.github.com> | Committer: Jaden Ziga <179839509+jaden313@users.noreply.github.com> | Date: 2025-09-17T23:33:12-04:00 | Added a center path.
     30ead52 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T03:26:47Z | Auto-update branch-info.txt
 - main
-  SHA: 7eeddec40ccf3b4e513a976f0996d1b2f86a49ef
-  Commits: 5
+  SHA: 7348abcd32c00f64e47689256a9ff041db1e1d4a
+  Commits: 10
   Recent commits:
-    7eeddec | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T03:40:50Z | Auto-update branch-info.txt
-    0fe1cdf | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T03:39:16Z | Auto-update branch-info.txt
-    360f3a4 | Author: Jaden Ziga <179839509+jaden313@users.noreply.github.com> | Committer: Jaden Ziga <179839509+jaden313@users.noreply.github.com> | Date: 2025-09-17T23:33:12-04:00 | Added a center path.
-    30ead52 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T03:26:47Z | Auto-update branch-info.txt
-    9f8a537 | Author: Jaden Ziga <179839509+jaden313@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-09-17T23:26:39-04:00 | Initial commit
+    7348abc | Author: Jaden Ziga <179839509+jaden313@users.noreply.github.com> | Committer: Jaden Ziga <179839509+jaden313@users.noreply.github.com> | Date: 2025-09-18T00:00:03-04:00 | Merge branch 'villain-path'
+    19f4e47 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T03:56:12Z | Auto-update branch-info.txt
+    a0e65d9 | Author: Jaden Ziga <179839509+jaden313@users.noreply.github.com> | Committer: Jaden Ziga <179839509+jaden313@users.noreply.github.com> | Date: 2025-09-18T03:55:02Z | Summarize villian path in README.md
+    65e5784 | Author: Jaden Ziga <179839509+jaden313@users.noreply.github.com> | Committer: Jaden Ziga <179839509+jaden313@users.noreply.github.com> | Date: 2025-09-18T03:52:22Z | Added that you fight the squirrel, gets defeated, and you turn evil.
+    c5755b1 | Author: Jaden Ziga <179839509+jaden313@users.noreply.github.com> | Committer: Jaden Ziga <179839509+jaden313@users.noreply.github.com> | Date: 2025-09-18T03:48:02Z | Added the squirrel grabbing a potion from his tree.
 - villain-path
   SHA: a0e65d95f143dc9faefa391e6e110f95f337563e
   Commits: 8
