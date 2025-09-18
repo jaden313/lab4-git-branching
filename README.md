@@ -16,7 +16,7 @@ You will:
 
 - `main`: Original story starter
 - `hero-path`: _[Describe your changes here]_
-- `villain-path`: _[Describe your changes here]_
+- `villain-path`: You stumble upon a talking squirrel challenging you to a duel. You accept the duel, and the squirrel grabs a potion from his tree. The squirrel defeats you, and uses the potion to turn you evil, becoming the villian he is.
 
 ## Final Checklist
 
